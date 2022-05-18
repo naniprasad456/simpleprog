@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ganta
+ *
+ */
+module simpleprog {
+}
